@@ -1,0 +1,59 @@
+about:
+  description: Terminal UI OS (Terminal Multiplexer)
+  license: MIT
+  homepage: https://tuios.gaurav.zip/
+  head: 4ab66bf
+  archived: false
+  latestVersion: v0.7.0
+  collectedAt: 2026-09-02T04:22:12Z
+timeline:
+  created: 2025-09-06
+  lastCommit: 2026-09-01
+  lastRelease: 2026-03-28
+popularity:
+  star: 3591
+  watcher: 9
+  fork: 141
+  release: 39
+  contributor: 17
+  pullRequest: 6
+  issue: 68
+language:
+  Go: 11205586
+  JavaScript: 34535
+  Tape: 9138
+  Shell: 771
+totalLine: 11250030
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 16
+    openPR: 4
+    closedIssue: 3
+    openIssue: 3
+    commit: 898
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 39
+    openPR: 4
+    closedIssue: 4
+    openIssue: 3
+    commit: 1139
+  last180d:
+    since: 2026-03-06
+    release: 1
+    mergedPR: 39
+    openPR: 4
+    closedIssue: 7
+    openIssue: 3
+    commit: 1316
+  last360d:
+    since: 2025-09-07
+    release: 38
+    mergedPR: 55
+    openPR: 4
+    closedIssue: 53
+    openIssue: 15
+    commit: 1544
