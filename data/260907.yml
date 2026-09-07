@@ -1,0 +1,182 @@
+about:
+  description: "Terminal UI OS (Terminal Multiplexer)"
+  license: MIT
+  homepage: https://tuios.gaurav.zip/
+  head: d5dc977
+  archived: false
+  latestVersion: "v0.7.0"
+  collectedAt: 2026-09-07T04:22:38Z
+timeline:
+  created: 2025-09-06
+  lastCommit: 2026-09-06
+  lastRelease: 2026-03-28
+popularity:
+  star: 3608
+  watcher: 9
+  fork: 142
+  release: 39
+  contributor: 18
+  pullRequest: 63
+  issue: 87
+language:
+  Go: 11843948
+  JavaScript: 34535
+  Tape: 9138
+  Shell: 771
+totalBytes: 11888392
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 0
+    mergedPR: 20
+    openPR: 1
+    closedIssue: 16
+    openIssue: 9
+    commit: 703
+  last60d:
+    since: 2026-07-09
+    release: 0
+    mergedPR: 43
+    openPR: 1
+    closedIssue: 17
+    openIssue: 9
+    commit: 1164
+  last90d:
+    since: 2026-06-09
+    release: 0
+    mergedPR: 43
+    openPR: 1
+    closedIssue: 17
+    openIssue: 9
+    commit: 1213
+  last180d:
+    since: 2026-03-11
+    release: 1
+    mergedPR: 43
+    openPR: 1
+    closedIssue: 20
+    openIssue: 9
+    commit: 1390
+  last360d:
+    since: 2025-09-12
+    release: 38
+    mergedPR: 59
+    openPR: 1
+    closedIssue: 67
+    openIssue: 20
+    commit: 1617
+  last720d:
+    since: 2024-09-17
+    release: 39
+    mergedPR: 59
+    openPR: 1
+    closedIssue: 67
+    openIssue: 20
+    commit: 1912
+total:
+  release: 39
+  mergedPR: 59
+  openPR: 1
+  closedIssue: 67
+  openIssue: 20
+  commit: 1912
+---
+path: /home/runner/.x-repo/github.com/Gaurav-Gosain/tuios
+collectedAt: 2026-09-07T04:22:42Z
+loc:
+  Go:
+    code: 237014
+    comments: 71577
+    blanks: 31141
+    files: 1417
+  Sh:
+    code: 905
+    comments: 405
+    blanks: 175
+    files: 18
+  JavaScript:
+    code: 522
+    comments: 201
+    blanks: 89
+    files: 5
+  Toml:
+    code: 514
+    comments: 303
+    blanks: 121
+    files: 23
+  Nix:
+    code: 205
+    comments: 16
+    blanks: 24
+    files: 6
+  Json:
+    code: 87
+    comments: 0
+    blanks: 0
+    files: 2
+  Svg:
+    code: 53
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 2
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6794
+    blanks: 2133
+    files: 29
+  Text:
+    code: 0
+    comments: 3687
+    blanks: 1
+    files: 24
+total:
+  code: 240187
+  comments: 83235
+  blanks: 33876
+  files: 1527
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:22:43+00:00
+  platform:
+    darwin/arm64:
+      name:  tuios_0.7.0_Darwin_arm64.tar.gz
+      url:   https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios_0.7.0_Darwin_arm64.tar.gz
+      size:  4188075
+      score: 145
+    darwin/amd64:
+      name:  tuios_0.7.0_Darwin_x86_64.tar.gz
+      url:   https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios_0.7.0_Darwin_x86_64.tar.gz
+      size:  4455857
+      score: 45
+    linux/arm64:
+      name:  tuios_0.7.0_Linux_arm64.tar.gz
+      url:   https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios_0.7.0_Linux_arm64.tar.gz
+      size:  3993177
+      score: 145
+    linux/amd64:
+      name:  tuios_0.7.0_Linux_x86_64.tar.gz
+      url:   https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios_0.7.0_Linux_x86_64.tar.gz
+      size:  4371171
+      score: 45
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  tuios_0.7.0_Windows_x86_64.tar.gz
+      url:   https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios_0.7.0_Windows_x86_64.tar.gz
+      size:  4497733
+      score: 45
