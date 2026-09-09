@@ -2,12 +2,12 @@ about:
   description: "Terminal UI OS (Terminal Multiplexer)"
   license: MIT
   homepage: https://tuios.gaurav.zip/
-  head: cb033e8
+  head: 3aebb8d
   archived: false
   latestVersion: "v0.7.0"
   latestRelease: "v0.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:28:16Z
+  collectedAt: 2026-09-09T18:45:33Z
 timeline:
   created: 2025-09-06
   lastCommit: 2026-09-09
@@ -15,96 +15,96 @@ timeline:
   lastRelease: 2026-03-28
   lastPrerelease: 
 popularity:
-  star: 3615
+  star: 3616
   watcher: 9
-  fork: 142
+  fork: 141
   release: 39
   contributor: 18
   pullRequest: 63
   issue: 103
 language:
-  Go: 11937093
-  JavaScript: 34535
+  Go: 12759129
+  JavaScript: 38287
   Tape: 9138
   Shell: 771
-totalBytes: 11981537
+totalBytes: 12807325
 recent:
   last30d:
     since: 2026-08-10
     release: 0
     mergedPR: 14
     openPR: 1
-    closedIssue: 16
-    openIssue: 25
-    commit: 705
+    closedIssue: 25
+    openIssue: 16
+    commit: 743
   last60d:
     since: 2026-07-11
     release: 0
     mergedPR: 43
     openPR: 1
-    closedIssue: 17
-    openIssue: 25
-    commit: 1166
+    closedIssue: 26
+    openIssue: 16
+    commit: 1204
   last90d:
     since: 2026-06-11
     release: 0
     mergedPR: 43
     openPR: 1
-    closedIssue: 17
-    openIssue: 25
-    commit: 1215
+    closedIssue: 26
+    openIssue: 16
+    commit: 1253
   last180d:
     since: 2026-03-13
     release: 1
     mergedPR: 43
     openPR: 1
-    closedIssue: 20
-    openIssue: 25
-    commit: 1392
+    closedIssue: 29
+    openIssue: 16
+    commit: 1430
   last360d:
     since: 2025-09-14
     release: 38
     mergedPR: 59
     openPR: 1
-    closedIssue: 67
-    openIssue: 36
-    commit: 1619
+    closedIssue: 76
+    openIssue: 27
+    commit: 1657
   last720d:
     since: 2024-09-19
     release: 39
     mergedPR: 59
     openPR: 1
-    closedIssue: 67
-    openIssue: 36
-    commit: 1915
+    closedIssue: 76
+    openIssue: 27
+    commit: 1969
 total:
   release: 39
   mergedPR: 59
   openPR: 1
-  closedIssue: 67
-  openIssue: 36
-  commit: 1915
+  closedIssue: 76
+  openIssue: 27
+  commit: 1969
 ---
 path: /home/runner/.x-repo/github.com/Gaurav-Gosain/tuios
-collectedAt: 2026-09-09T04:28:19Z
+collectedAt: 2026-09-09T18:45:36Z
 loc:
   Go:
-    code: 238957
-    comments: 72125
-    blanks: 31365
-    files: 1428
+    code: 255483
+    comments: 76290
+    blanks: 32873
+    files: 1518
   Sh:
     code: 905
-    comments: 405
+    comments: 410
     blanks: 175
     files: 18
   JavaScript:
-    code: 522
-    comments: 201
-    blanks: 89
+    code: 575
+    comments: 216
+    blanks: 96
     files: 5
   Toml:
-    code: 514
+    code: 517
     comments: 303
     blanks: 121
     files: 23
@@ -135,8 +135,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 6802
-    blanks: 2135
+    comments: 7432
+    blanks: 2298
     files: 29
   Text:
     code: 0
@@ -144,10 +144,10 @@ loc:
     blanks: 1
     files: 24
 total:
-  code: 242130
-  comments: 83791
-  blanks: 34102
-  files: 1538
+  code: 258762
+  comments: 88615
+  blanks: 35783
+  files: 1628
 ---
 
 ---
