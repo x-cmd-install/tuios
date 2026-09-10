@@ -2,20 +2,20 @@ about:
   description: "Terminal UI OS (Terminal Multiplexer)"
   license: MIT
   homepage: https://tuios.gaurav.zip/
-  head: d5b36ca
+  head: b9f6161
   archived: false
   latestVersion: "v0.7.0"
   latestRelease: "v0.7.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:26:06Z
+  collectedAt: 2026-09-10T16:18:20Z
 timeline:
   created: 2025-09-06
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-03-28
   lastRelease: 2026-03-28
   lastPrerelease: 
 popularity:
-  star: 3617
+  star: 3618
   watcher: 9
   fork: 141
   release: 39
@@ -23,11 +23,11 @@ popularity:
   pullRequest: 63
   issue: 106
 language:
-  Go: 12886862
+  Go: 12915658
   JavaScript: 38287
   Tape: 9138
   Shell: 771
-totalBytes: 12935058
+totalBytes: 12963854
 recent:
   last30d:
     since: 2026-08-11
@@ -36,7 +36,7 @@ recent:
     openPR: 1
     closedIssue: 27
     openIssue: 17
-    commit: 747
+    commit: 750
   last60d:
     since: 2026-07-12
     release: 0
@@ -44,7 +44,7 @@ recent:
     openPR: 1
     closedIssue: 28
     openIssue: 17
-    commit: 1208
+    commit: 1211
   last90d:
     since: 2026-06-12
     release: 0
@@ -52,7 +52,7 @@ recent:
     openPR: 1
     closedIssue: 28
     openIssue: 17
-    commit: 1257
+    commit: 1260
   last180d:
     since: 2026-03-14
     release: 1
@@ -60,7 +60,7 @@ recent:
     openPR: 1
     closedIssue: 31
     openIssue: 17
-    commit: 1434
+    commit: 1437
   last360d:
     since: 2025-09-15
     release: 38
@@ -68,7 +68,7 @@ recent:
     openPR: 1
     closedIssue: 78
     openIssue: 28
-    commit: 1661
+    commit: 1664
   last720d:
     since: 2024-09-20
     release: 39
@@ -76,23 +76,23 @@ recent:
     openPR: 1
     closedIssue: 78
     openIssue: 28
-    commit: 1975
+    commit: 1979
 total:
   release: 39
   mergedPR: 59
   openPR: 1
   closedIssue: 78
   openIssue: 28
-  commit: 1975
+  commit: 1979
 ---
 path: /home/runner/.x-repo/github.com/Gaurav-Gosain/tuios
-collectedAt: 2026-09-10T04:26:11Z
+collectedAt: 2026-09-10T16:18:24Z
 loc:
   Go:
-    code: 257518
-    comments: 77170
-    blanks: 33080
-    files: 1523
+    code: 257931
+    comments: 77368
+    blanks: 33139
+    files: 1526
   Sh:
     code: 905
     comments: 410
@@ -144,10 +144,10 @@ loc:
     blanks: 1
     files: 24
 total:
-  code: 260797
-  comments: 89517
-  blanks: 35990
-  files: 1633
+  code: 261210
+  comments: 89715
+  blanks: 36049
+  files: 1636
 ---
 
 ---
