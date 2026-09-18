@@ -38,7 +38,7 @@ Total: **260,895** lines of code across **1588** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,667 · **Forks**: 144 · **Open issues**: 109 · **Contributors**: 18
+- **Stars**: 3,679 · **Forks**: 144 · **Open issues**: 109 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **260,895** lines of code across **1588** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 9 | 3 | 27 | 18 | 494 |
-| last60d | 2026-07-19 | 0 | 36 | 3 | 29 | 19 | 1075 |
-| 90d | 2026-06-19 | 0 | 43 | 3 | 29 | 19 | 1271 |
-| last180d | 2026-03-21 | 1 | 43 | 3 | 32 | 19 | 1392 |
-| 360d | 2025-09-22 | 38 | 59 | 3 | 79 | 30 | 1675 |
-| last720d | 2024-09-27 | 39 | 59 | 3 | 79 | 30 | 1995 |
+| 30d | 2026-08-19 | 0 | 9 | 3 | 26 | 18 | 494 |
+| last60d | 2026-07-20 | 0 | 36 | 3 | 29 | 19 | 1075 |
+| 90d | 2026-06-20 | 0 | 43 | 3 | 29 | 19 | 1271 |
+| last180d | 2026-03-22 | 1 | 43 | 3 | 32 | 19 | 1392 |
+| 360d | 2025-09-23 | 38 | 59 | 3 | 79 | 30 | 1675 |
+| last720d | 2024-09-28 | 39 | 59 | 3 | 79 | 30 | 1995 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for tuios lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:48:22Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:30:57Z._
