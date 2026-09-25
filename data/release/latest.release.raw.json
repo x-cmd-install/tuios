@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3008,
       "digest": "sha256:6e3d047a00d7aeabd05721f77d493012a76872365022a02fb8cc8b8fccc74211",
-      "download_count": 85,
+      "download_count": 87,
       "created_at": "2026-03-28T21:21:05Z",
       "updated_at": "2026-03-28T21:21:05Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/checksums.txt"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10918892,
       "digest": "sha256:7bac74923ae775a3c69562d58126094da23d9c4a4c83ce02421050de2f332641",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-03-28T21:21:02Z",
       "updated_at": "2026-03-28T21:21:03Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios-web_0.7.0_Linux_armv7.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 4223115,
       "digest": "sha256:ca80b5495ae6fef411e7958705f629cf357f32a5c5554d81549ef5e806814ec9",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-03-28T21:20:59Z",
       "updated_at": "2026-03-28T21:21:00Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios_0.7.0_Linux_armv7.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 4371171,
       "digest": "sha256:0a42da4dafc170f888d5fc6148c5bc62b3d65b69c3fc82e2ab0bb1ae47875fcd",
-      "download_count": 1537,
+      "download_count": 1551,
       "created_at": "2026-03-28T21:21:01Z",
       "updated_at": "2026-03-28T21:21:01Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios_0.7.0_Linux_x86_64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 4497733,
       "digest": "sha256:b4e3daa692e38a223ce0c4e3efef1ab200d1795778db37fb10b9904cfaecf89c",
-      "download_count": 1065,
+      "download_count": 1073,
       "created_at": "2026-03-28T21:21:01Z",
       "updated_at": "2026-03-28T21:21:02Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.7.0/tuios_0.7.0_Windows_x86_64.tar.gz"
