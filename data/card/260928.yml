@@ -1,0 +1,176 @@
+about:
+  description: "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent."
+  license: MIT
+  homepage: https://tuios.dev
+  head: eb49a3e
+  archived: false
+  latestVersion: "v0.8.0"
+  latestRelease: "v0.8.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-28T05:11:44Z
+timeline:
+  created: 2025-09-06
+  lastCommit: 2026-09-28
+  lastVersion: 2026-09-27
+  lastRelease: 2026-09-27
+  lastPrerelease: 
+popularity:
+  star: 3967
+  watcher: 11
+  fork: 156
+  release: 40
+  contributor: 20
+  pullRequest: 77
+  issue: 111
+language:
+  Go: 16526941
+  JavaScript: 67053
+  Tape: 9138
+  HTML: 9111
+  TypeScript: 7861
+  Python: 1914
+  Shell: 771
+totalBytes: 16622789
+recent:
+  last30d:
+    since: 2026-08-29
+    release: 1
+    mergedPR: 14
+    openPR: 2
+    closedIssue: 37
+    openIssue: 8
+    commit: 889
+  last60d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 31
+    openPR: 2
+    closedIssue: 40
+    openIssue: 9
+    commit: 1807
+  last90d:
+    since: 2026-06-30
+    release: 1
+    mergedPR: 53
+    openPR: 2
+    closedIssue: 41
+    openIssue: 9
+    commit: 2020
+  last180d:
+    since: 2026-04-01
+    release: 1
+    mergedPR: 53
+    openPR: 2
+    closedIssue: 44
+    openIssue: 9
+    commit: 2056
+  last360d:
+    since: 2025-10-03
+    release: 39
+    mergedPR: 69
+    openPR: 2
+    closedIssue: 91
+    openIssue: 20
+    commit: 2452
+  last720d:
+    since: 2024-10-08
+    release: 40
+    mergedPR: 69
+    openPR: 2
+    closedIssue: 91
+    openIssue: 20
+    commit: 2811
+total:
+  release: 40
+  mergedPR: 69
+  openPR: 2
+  closedIssue: 91
+  openIssue: 20
+  commit: 2811
+---
+path: /home/runner/.x-repo/github.com/Gaurav-Gosain/tuios
+collectedAt: 2026-09-28T05:11:50Z
+loc:
+  Go:
+    code: 327514
+    comments: 99844
+    blanks: 37039
+    files: 2048
+  Toml:
+    code: 1385
+    comments: 722
+    blanks: 261
+    files: 24
+  Json:
+    code: 1236
+    comments: 0
+    blanks: 0
+    files: 22
+  Sh:
+    code: 1115
+    comments: 486
+    blanks: 200
+    files: 22
+  JavaScript:
+    code: 1097
+    comments: 382
+    blanks: 153
+    files: 10
+  Nix:
+    code: 212
+    comments: 22
+    blanks: 26
+    files: 6
+  TypeScript:
+    code: 162
+    comments: 47
+    blanks: 13
+    files: 2
+  Svg:
+    code: 57
+    comments: 0
+    blanks: 0
+    files: 5
+  Python:
+    code: 36
+    comments: 10
+    blanks: 14
+    files: 1
+  Html:
+    code: 27
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 14
+    comments: 28
+    blanks: 7
+    files: 1
+  Autoconf:
+    code: 11
+    comments: 0
+    blanks: 6
+    files: 1
+  Yaml:
+    code: 4
+    comments: 3
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 17233
+    blanks: 4095
+    files: 47
+  Text:
+    code: 0
+    comments: 6070
+    blanks: 72
+    files: 62
+total:
+  code: 334355
+  comments: 125186
+  blanks: 42127
+  files: 2254
+---
+
+---
