@@ -14,14 +14,14 @@ x install tuios
 
 ## Code insight
 
-Total: **486,405** lines of code across **2928** files in the top 5 languages.
+Total: **488,819** lines of code across **2933** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 480,297 | 138,218 | 49,426 | 2835 |
+| Go | 482,706 | 138,952 | 49,590 | 2840 |
 | JavaScript | 1,594 | 504 | 177 | 15 |
 | Toml | 1,462 | 763 | 272 | 30 |
-| Json | 1,365 | 0 | 0 | 24 |
+| Json | 1,370 | 0 | 0 | 24 |
 | Sh | 1,145 | 492 | 200 | 24 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **486,405** lines of code across **2928** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.2` (2026-10-09)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-11
 - **Assets in release**: 37
 
 ## Popularity
 
-- **Stars**: 5,084 · **Forks**: 232 · **Open issues**: 170 · **Contributors**: 34
+- **Stars**: 5,130 · **Forks**: 234 · **Open issues**: 173 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 362 · **Open PRs**: 11 · **Closed issues**: 156 · **Open issues**: 14 · **Commits**: 3793
+- **Releases**: 48 · **Merged PRs**: 369 · **Open PRs**: 13 · **Closed issues**: 157 · **Open issues**: 16 · **Commits**: 3807
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 9 | 303 | 11 | 54 | 10 | 1768 |
-| last60d | 2026-08-11 | 9 | 317 | 11 | 96 | 12 | 2676 |
-| 90d | 2026-07-12 | 9 | 346 | 11 | 97 | 12 | 2981 |
-| last180d | 2026-04-13 | 9 | 346 | 11 | 100 | 12 | 3032 |
-| 360d | 2025-10-15 | 47 | 362 | 11 | 156 | 14 | 3434 |
-| last720d | 2024-10-20 | 48 | 362 | 11 | 156 | 14 | 3793 |
+| 30d | 2026-09-11 | 9 | 307 | 13 | 55 | 12 | 1767 |
+| last60d | 2026-08-12 | 9 | 324 | 13 | 97 | 14 | 2396 |
+| 90d | 2026-07-13 | 9 | 353 | 13 | 98 | 14 | 2863 |
+| last180d | 2026-04-14 | 9 | 353 | 13 | 101 | 14 | 3044 |
+| 360d | 2025-10-16 | 47 | 369 | 13 | 157 | 16 | 3416 |
+| last720d | 2024-10-21 | 48 | 369 | 13 | 157 | 16 | 3807 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for tuios lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:38:21Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:34:42Z._
