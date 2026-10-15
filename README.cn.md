@@ -14,15 +14,15 @@ x install tuios
 
 ## 代码洞察
 
-合计: **517,370** 行代码（覆盖前 5 种语言、共 **3041** 个文件）。
+合计: **535,524** 行代码（覆盖前 5 种语言、共 **3155** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 511,057 | 144,841 | 51,660 | 2947 |
-| JavaScript | 1,599 | 510 | 179 | 15 |
+| Go | 529,106 | 149,530 | 53,149 | 3061 |
+| JavaScript | 1,749 | 558 | 194 | 16 |
 | Toml | 1,465 | 767 | 273 | 30 |
 | Json | 1,370 | 0 | 0 | 24 |
-| Sh | 1,329 | 556 | 214 | 25 |
+| Sh | 1,284 | 522 | 208 | 24 |
 
 ## 源代码
 
@@ -32,70 +32,70 @@ x install tuios
 
 ## 发布
 
-- **最新版本**: `v0.9.2` (2026-10-09)
-- **最近提交**: 2026-10-14
+- **最新版本**: `v0.9.3` (2026-10-14)
+- **最近提交**: 2026-10-15
 - **Release 含资产**: 37 个
 
 ## 流行度
 
-- **Star**: 5,259 · **Fork**: 245 · **开放 issue**: 185 · **贡献者**: 35
+- **Star**: 5,353 · **Fork**: 250 · **开放 issue**: 191 · **贡献者**: 37
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 394 · **开放 PR**: 39 · **已关闭 issue**: 163 · **开放 issue**: 22 · **提交数**: 3936
+- **发布数**: 49 · **已合并 PR**: 437 · **开放 PR**: 19 · **已关闭 issue**: 171 · **开放 issue**: 20 · **提交数**: 4146
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 9 | 332 | 39 | 61 | 18 | 1896 |
-| last60d | 2026-08-15 | 9 | 349 | 39 | 103 | 20 | 2525 |
-| 90d | 2026-07-16 | 9 | 378 | 39 | 104 | 20 | 2992 |
-| last180d | 2026-04-17 | 9 | 378 | 39 | 107 | 20 | 3173 |
-| 360d | 2025-10-19 | 47 | 394 | 39 | 162 | 22 | 3545 |
-| last720d | 2024-10-24 | 48 | 394 | 39 | 163 | 22 | 3936 |
+| 30d | 2026-09-15 | 10 | 375 | 19 | 69 | 16 | 2106 |
+| last60d | 2026-08-16 | 10 | 390 | 19 | 110 | 18 | 2735 |
+| 90d | 2026-07-17 | 10 | 421 | 19 | 112 | 18 | 3202 |
+| last180d | 2026-04-18 | 10 | 421 | 19 | 115 | 18 | 3383 |
+| 360d | 2025-10-20 | 48 | 436 | 19 | 167 | 20 | 3755 |
+| last720d | 2024-10-25 | 49 | 437 | 19 | 171 | 20 | 4146 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/checksums.txt) | 3.6 KiB | `other` |
-| [tuios-ghostty_0.9.2_Darwin_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-ghostty_0.9.2_Darwin_arm64.tar.gz) | 12.6 MiB | `native/darwin/arm64` |
-| [tuios-ghostty_0.9.2_Darwin_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-ghostty_0.9.2_Darwin_x86_64.tar.gz) | 13.6 MiB | `native/darwin/x64` |
-| [tuios-ghostty_0.9.2_Linux_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-ghostty_0.9.2_Linux_arm64.tar.gz) | 15.3 MiB | `native/linux/arm64` |
-| [tuios-ghostty_0.9.2_Linux_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-ghostty_0.9.2_Linux_x86_64.tar.gz) | 16.7 MiB | `native/linux/x64` |
-| [tuios-ghostty_0.9.2_Windows_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-ghostty_0.9.2_Windows_arm64.tar.gz) | 12.5 MiB | `native/win/arm64` |
-| [tuios-ghostty_0.9.2_Windows_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-ghostty_0.9.2_Windows_x86_64.tar.gz) | 13.8 MiB | `native/win/x64` |
-| [tuios-web_0.9.2_Darwin_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Darwin_arm64.tar.gz) | 16.0 MiB | `native/darwin/arm64` |
-| [tuios-web_0.9.2_Darwin_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Darwin_x86_64.tar.gz) | 16.8 MiB | `native/darwin/x64` |
-| [tuios-web_0.9.2_Freebsd_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Freebsd_arm64.tar.gz) | 15.4 MiB | `native/linux/arm64` |
-| [tuios-web_0.9.2_Freebsd_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Freebsd_i386.tar.gz) | 15.8 MiB | `native/linux/x86` |
-| [tuios-web_0.9.2_Freebsd_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Freebsd_x86_64.tar.gz) | 16.5 MiB | `native/linux/x64` |
-| [tuios-web_0.9.2_Linux_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Linux_arm64.tar.gz) | 15.5 MiB | `native/linux/arm64` |
-| [tuios-web_0.9.2_Linux_armv6.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Linux_armv6.tar.gz) | 15.9 MiB | `native/linux/arm` |
-| [tuios-web_0.9.2_Linux_armv7.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Linux_armv7.tar.gz) | 15.9 MiB | `native/linux/arm` |
-| [tuios-web_0.9.2_Linux_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Linux_i386.tar.gz) | 15.8 MiB | `native/linux/x86` |
-| [tuios-web_0.9.2_Linux_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Linux_x86_64.tar.gz) | 16.5 MiB | `native/linux/x64` |
-| [tuios-web_0.9.2_Openbsd_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Openbsd_arm64.tar.gz) | 15.4 MiB | `native/linux/arm64` |
-| [tuios-web_0.9.2_Openbsd_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Openbsd_i386.tar.gz) | 15.7 MiB | `native/linux/x86` |
-| [tuios-web_0.9.2_Openbsd_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Openbsd_x86_64.tar.gz) | 16.4 MiB | `native/linux/x64` |
-| [tuios-web_0.9.2_Windows_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Windows_i386.tar.gz) | 16.2 MiB | `native/win/x64` |
-| [tuios-web_0.9.2_Windows_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios-web_0.9.2_Windows_x86_64.tar.gz) | 16.7 MiB | `native/win/x64` |
-| [tuios_0.9.2_Darwin_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Darwin_arm64.tar.gz) | 12.0 MiB | `native/darwin/arm64` |
-| [tuios_0.9.2_Darwin_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Darwin_x86_64.tar.gz) | 12.9 MiB | `native/darwin/x64` |
-| [tuios_0.9.2_Freebsd_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Freebsd_arm64.tar.gz) | 11.5 MiB | `native/linux/arm64` |
-| [tuios_0.9.2_Freebsd_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Freebsd_i386.tar.gz) | 11.8 MiB | `native/linux/x86` |
-| [tuios_0.9.2_Freebsd_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Freebsd_x86_64.tar.gz) | 12.6 MiB | `native/linux/x64` |
-| [tuios_0.9.2_Linux_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Linux_arm64.tar.gz) | 11.5 MiB | `native/linux/arm64` |
-| [tuios_0.9.2_Linux_armv6.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Linux_armv6.tar.gz) | 12.0 MiB | `native/linux/arm` |
-| [tuios_0.9.2_Linux_armv7.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Linux_armv7.tar.gz) | 11.9 MiB | `native/linux/arm` |
-| [tuios_0.9.2_Linux_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Linux_i386.tar.gz) | 11.9 MiB | `native/linux/x86` |
-| [tuios_0.9.2_Linux_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Linux_x86_64.tar.gz) | 12.6 MiB | `native/linux/x64` |
-| [tuios_0.9.2_Openbsd_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Openbsd_arm64.tar.gz) | 11.5 MiB | `native/linux/arm64` |
-| [tuios_0.9.2_Openbsd_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Openbsd_i386.tar.gz) | 11.8 MiB | `native/linux/x86` |
-| [tuios_0.9.2_Openbsd_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Openbsd_x86_64.tar.gz) | 12.6 MiB | `native/linux/x64` |
-| [tuios_0.9.2_Windows_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Windows_i386.tar.gz) | 12.2 MiB | `native/win/x64` |
-| [tuios_0.9.2_Windows_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.2/tuios_0.9.2_Windows_x86_64.tar.gz) | 12.7 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/checksums.txt) | 3.6 KiB | `other` |
+| [tuios-ghostty_0.9.3_Darwin_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-ghostty_0.9.3_Darwin_arm64.tar.gz) | 13.4 MiB | `native/darwin/arm64` |
+| [tuios-ghostty_0.9.3_Darwin_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-ghostty_0.9.3_Darwin_x86_64.tar.gz) | 14.4 MiB | `native/darwin/x64` |
+| [tuios-ghostty_0.9.3_Linux_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-ghostty_0.9.3_Linux_arm64.tar.gz) | 16.1 MiB | `native/linux/arm64` |
+| [tuios-ghostty_0.9.3_Linux_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-ghostty_0.9.3_Linux_x86_64.tar.gz) | 17.5 MiB | `native/linux/x64` |
+| [tuios-ghostty_0.9.3_Windows_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-ghostty_0.9.3_Windows_arm64.tar.gz) | 13.2 MiB | `native/win/arm64` |
+| [tuios-ghostty_0.9.3_Windows_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-ghostty_0.9.3_Windows_x86_64.tar.gz) | 14.6 MiB | `native/win/x64` |
+| [tuios-web_0.9.3_Darwin_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Darwin_arm64.tar.gz) | 16.6 MiB | `native/darwin/arm64` |
+| [tuios-web_0.9.3_Darwin_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Darwin_x86_64.tar.gz) | 17.4 MiB | `native/darwin/x64` |
+| [tuios-web_0.9.3_Freebsd_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Freebsd_arm64.tar.gz) | 16.0 MiB | `native/linux/arm64` |
+| [tuios-web_0.9.3_Freebsd_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Freebsd_i386.tar.gz) | 16.4 MiB | `native/linux/x86` |
+| [tuios-web_0.9.3_Freebsd_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Freebsd_x86_64.tar.gz) | 17.1 MiB | `native/linux/x64` |
+| [tuios-web_0.9.3_Linux_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Linux_arm64.tar.gz) | 16.1 MiB | `native/linux/arm64` |
+| [tuios-web_0.9.3_Linux_armv6.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Linux_armv6.tar.gz) | 16.5 MiB | `native/linux/arm` |
+| [tuios-web_0.9.3_Linux_armv7.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Linux_armv7.tar.gz) | 16.5 MiB | `native/linux/arm` |
+| [tuios-web_0.9.3_Linux_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Linux_i386.tar.gz) | 16.4 MiB | `native/linux/x86` |
+| [tuios-web_0.9.3_Linux_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Linux_x86_64.tar.gz) | 17.2 MiB | `native/linux/x64` |
+| [tuios-web_0.9.3_Openbsd_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Openbsd_arm64.tar.gz) | 16.0 MiB | `native/linux/arm64` |
+| [tuios-web_0.9.3_Openbsd_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Openbsd_i386.tar.gz) | 16.4 MiB | `native/linux/x86` |
+| [tuios-web_0.9.3_Openbsd_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Openbsd_x86_64.tar.gz) | 17.1 MiB | `native/linux/x64` |
+| [tuios-web_0.9.3_Windows_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Windows_i386.tar.gz) | 16.8 MiB | `native/win/x64` |
+| [tuios-web_0.9.3_Windows_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios-web_0.9.3_Windows_x86_64.tar.gz) | 17.3 MiB | `native/win/x64` |
+| [tuios_0.9.3_Darwin_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Darwin_arm64.tar.gz) | 12.8 MiB | `native/darwin/arm64` |
+| [tuios_0.9.3_Darwin_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Darwin_x86_64.tar.gz) | 13.7 MiB | `native/darwin/x64` |
+| [tuios_0.9.3_Freebsd_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Freebsd_arm64.tar.gz) | 12.2 MiB | `native/linux/arm64` |
+| [tuios_0.9.3_Freebsd_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Freebsd_i386.tar.gz) | 12.6 MiB | `native/linux/x86` |
+| [tuios_0.9.3_Freebsd_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Freebsd_x86_64.tar.gz) | 13.4 MiB | `native/linux/x64` |
+| [tuios_0.9.3_Linux_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Linux_arm64.tar.gz) | 12.3 MiB | `native/linux/arm64` |
+| [tuios_0.9.3_Linux_armv6.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Linux_armv6.tar.gz) | 12.7 MiB | `native/linux/arm` |
+| [tuios_0.9.3_Linux_armv7.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Linux_armv7.tar.gz) | 12.7 MiB | `native/linux/arm` |
+| [tuios_0.9.3_Linux_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Linux_i386.tar.gz) | 12.6 MiB | `native/linux/x86` |
+| [tuios_0.9.3_Linux_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Linux_x86_64.tar.gz) | 13.4 MiB | `native/linux/x64` |
+| [tuios_0.9.3_Openbsd_arm64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Openbsd_arm64.tar.gz) | 12.2 MiB | `native/linux/arm64` |
+| [tuios_0.9.3_Openbsd_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Openbsd_i386.tar.gz) | 12.6 MiB | `native/linux/x86` |
+| [tuios_0.9.3_Openbsd_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Openbsd_x86_64.tar.gz) | 13.4 MiB | `native/linux/x64` |
+| [tuios_0.9.3_Windows_i386.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Windows_i386.tar.gz) | 13.0 MiB | `native/win/x64` |
+| [tuios_0.9.3_Windows_x86_64.tar.gz](https://github.com/Gaurav-Gosain/tuios/releases/download/v0.9.3/tuios_0.9.3_Windows_x86_64.tar.gz) | 13.6 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -106,4 +106,4 @@ tuios 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T04:43:02Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T04:25:12Z._
