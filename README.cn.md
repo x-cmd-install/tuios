@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.
+A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account.
 
 [![x-cmd/install — tuios Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tuios.svg?lang=zh)](https://x-cmd.com/install/tuios)
 
@@ -14,15 +14,15 @@ x install tuios
 
 ## 代码洞察
 
-合计: **729,941** 行代码（覆盖前 5 种语言、共 **4086** 个文件）。
+合计: **740,090** 行代码（覆盖前 5 种语言、共 **4141** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 706,571 | 173,203 | 65,104 | 3873 |
-| Json | 16,014 | 0 | 0 | 96 |
+| Go | 716,176 | 175,357 | 65,862 | 3924 |
+| Json | 16,021 | 0 | 0 | 96 |
 | Toml | 2,490 | 864 | 423 | 66 |
+| Sh | 1,983 | 760 | 289 | 37 |
 | JavaScript | 1,851 | 613 | 203 | 18 |
-| Sh | 1,591 | 670 | 251 | 33 |
 
 ## 源代码
 
@@ -33,27 +33,27 @@ x install tuios
 ## 发布
 
 - **最新版本**: `v0.10.1` (2026-10-17)
-- **最近提交**: 2026-10-23
+- **最近提交**: 2026-10-24
 - **Release 含资产**: 37 个
 
 ## 流行度
 
-- **Star**: 5,567 · **Fork**: 259 · **开放 issue**: 221 · **贡献者**: 45
+- **Star**: 5,672 · **Fork**: 265 · **开放 issue**: 225 · **贡献者**: 47
 
 ## 累计统计
 
-- **发布数**: 51 · **已合并 PR**: 701 · **开放 PR**: 29 · **已关闭 issue**: 194 · **开放 issue**: 27 · **提交数**: 5107
+- **发布数**: 51 · **已合并 PR**: 732 · **开放 PR**: 25 · **已关闭 issue**: 196 · **开放 issue**: 29 · **提交数**: 5212
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 12 | 636 | 29 | 89 | 23 | 2580 |
-| last60d | 2026-08-24 | 12 | 648 | 29 | 131 | 25 | 3296 |
-| 90d | 2026-07-25 | 12 | 678 | 29 | 135 | 25 | 4122 |
-| last180d | 2026-04-26 | 12 | 685 | 29 | 138 | 25 | 4344 |
-| 360d | 2025-10-28 | 29 | 699 | 29 | 178 | 27 | 4684 |
-| last720d | 2024-11-02 | 51 | 701 | 29 | 194 | 27 | 5107 |
+| 30d | 2026-09-24 | 12 | 667 | 25 | 91 | 25 | 0 |
+| last60d | 2026-08-25 | 12 | 679 | 25 | 132 | 27 | 0 |
+| 90d | 2026-07-26 | 12 | 704 | 25 | 137 | 27 | 0 |
+| last180d | 2026-04-27 | 12 | 716 | 25 | 140 | 27 | 0 |
+| 360d | 2025-10-29 | 29 | 730 | 25 | 180 | 29 | 0 |
+| last720d | 2024-11-03 | 51 | 732 | 25 | 196 | 29 | 5212 |
 
 ## Release 资产
 
@@ -116,4 +116,4 @@ tuios 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T04:34:02Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T04:24:28Z._
