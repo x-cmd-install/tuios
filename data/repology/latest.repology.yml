@@ -28,8 +28,8 @@
   srcname: tuios-bin
   binname: tuios-bin
   visiblename: tuios-bin
-  version: 0.10.1
-  origversion: 0.10.1-1
+  version: 0.11.0
+  origversion: 0.11.0-1
   status: newest
   summary: Terminal UI Operating System - A terminal-based window manager with tmux-style keybindings
   maintainers:
@@ -39,14 +39,14 @@
 - repo: chocolatey
   binname: tuios
   visiblename: TuiOS
-  version: 0.10.1
+  version: 0.11.0
   origversion: null
   status: newest
   summary: Terminal UI OS (Terminal Multiplexer)
 - repo: homebrew
   srcname: tuios
   visiblename: tuios
-  version: 0.10.1
+  version: 0.11.0
   origversion: null
   status: newest
   summary: Terminal UI OS (Terminal Multiplexer)
@@ -84,7 +84,7 @@
   visiblename: tuios
   version: 0.10.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal-based window manager
   maintainers:
     - kristoffer.pbs@gmail.com
