@@ -24,12 +24,28 @@
     - grking.email@gmail.com
   licenses:
     - MIT
+- repo: altsisyphus
+  srcname: tuios
+  binnames:
+    - tuios
+    - tuios-debuginfo
+  visiblename: tuios
+  version: 0.11.1
+  origversion: 0.11.1-alt1
+  status: newest
+  summary: Terminal UI Operating System, a terminal-based window manager
+  maintainers:
+    - liannnix@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Terminals
 - repo: aur
   srcname: tuios-bin
   binname: tuios-bin
   visiblename: tuios-bin
-  version: 0.11.0
-  origversion: 0.11.0-1
+  version: 0.11.1
+  origversion: 0.11.1-1
   status: newest
   summary: Terminal UI Operating System - A terminal-based window manager with tmux-style keybindings
   maintainers:
@@ -41,12 +57,12 @@
   visiblename: TuiOS
   version: 0.11.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal UI OS (Terminal Multiplexer)
 - repo: homebrew
   srcname: tuios
   visiblename: tuios
-  version: 0.11.0
+  version: 0.11.1
   origversion: null
   status: newest
   summary: Terminal UI OS (Terminal Multiplexer)
