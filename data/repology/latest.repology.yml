@@ -1,3 +1,33 @@
+- repo: nix_unstable
+  srcname: tuios
+  visiblename: tuios
+  version: 0.11.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based window manager
+  maintainers:
+    - kristoffer.pbs@gmail.com
+    - happy.plan4249@valkor.net
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: tuios
+  visiblename: tuios
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal UI OS (Terminal Multiplexer)
+- repo: nix_stable_26_05
+  srcname: tuios
+  visiblename: tuios
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: Terminal-based window manager
+  maintainers:
+    - kristoffer.pbs@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: tuios
@@ -66,13 +96,6 @@
   origversion: null
   status: newest
   summary: Terminal UI OS (Terminal Multiplexer)
-- repo: homebrew
-  srcname: tuios
-  visiblename: tuios
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Terminal UI OS (Terminal Multiplexer)
 - repo: nix_stable_25_11
   srcname: tuios
   visiblename: tuios
@@ -82,28 +105,5 @@
   summary: Terminal-based window manager
   maintainers:
     - kristoffer.pbs@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: tuios
-  visiblename: tuios
-  version: 0.7.0
-  origversion: null
-  status: outdated
-  summary: Terminal-based window manager
-  maintainers:
-    - kristoffer.pbs@gmail.com
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: tuios
-  visiblename: tuios
-  version: 0.10.1
-  origversion: null
-  status: outdated
-  summary: Terminal-based window manager
-  maintainers:
-    - kristoffer.pbs@gmail.com
-    - happy.plan4249@valkor.net
   licenses:
     - MIT
