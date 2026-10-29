@@ -14,15 +14,15 @@ x install tuios
 
 ## Code insight
 
-Total: **774,630** lines of code across **4284** files in the top 5 languages.
+Total: **791,774** lines of code across **4343** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 748,372 | 182,623 | 68,076 | 4051 |
-| Json | 17,855 | 0 | 0 | 106 |
+| Go | 763,955 | 185,961 | 69,218 | 4106 |
+| Json | 18,780 | 0 | 0 | 107 |
 | Toml | 2,499 | 879 | 424 | 66 |
-| Sh | 2,167 | 866 | 306 | 42 |
-| JavaScript | 1,888 | 616 | 204 | 19 |
+| Sh | 2,354 | 931 | 326 | 42 |
+| JavaScript | 2,158 | 695 | 224 | 22 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **774,630** lines of code across **4284** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.11.1` (2026-10-26)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 61
 
 ## Popularity
 
-- **Stars**: 6,167 · **Forks**: 285 · **Open issues**: 260 · **Contributors**: 58
+- **Stars**: 6,194 · **Forks**: 290 · **Open issues**: 275 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 855 · **Open PRs**: 39 · **Closed issues**: 220 · **Open issues**: 40 · **Commits**: 5484
+- **Releases**: 53 · **Merged PRs**: 909 · **Open PRs**: 33 · **Closed issues**: 240 · **Open issues**: 35 · **Commits**: 5599
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 13 | 763 | 39 | 108 | 36 | 2310 |
-| last60d | 2026-08-29 | 14 | 800 | 39 | 156 | 38 | 3577 |
-| 90d | 2026-07-30 | 14 | 817 | 39 | 160 | 38 | 4480 |
-| last180d | 2026-05-01 | 14 | 839 | 39 | 163 | 38 | 4721 |
-| 360d | 2025-11-02 | 30 | 851 | 39 | 198 | 40 | 5020 |
-| last720d | 2024-11-07 | 53 | 855 | 39 | 220 | 40 | 5484 |
+| 30d | 2026-09-29 | 13 | 797 | 33 | 120 | 31 | 2425 |
+| last60d | 2026-08-30 | 14 | 854 | 33 | 175 | 33 | 3692 |
+| 90d | 2026-07-31 | 14 | 871 | 33 | 180 | 33 | 4595 |
+| last180d | 2026-05-02 | 14 | 893 | 33 | 183 | 33 | 4836 |
+| 360d | 2025-11-03 | 29 | 903 | 33 | 217 | 35 | 5135 |
+| last720d | 2024-11-08 | 53 | 909 | 33 | 240 | 35 | 5599 |
 
 ## Release assets
 
@@ -123,12 +123,12 @@ Total: **774,630** lines of code across **4284** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/tuios). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/tuios). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.11.0` | ⚠️ outdated |
+| Homebrew | `0.11.1` | ✅ latest |
+| Nix unstable | `0.11.1` | ✅ latest |
 | Alpine edge | `0.6.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -140,4 +140,4 @@ Install metadata for tuios lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:24:37Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:34:49Z._
