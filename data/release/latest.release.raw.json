@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6169,
       "digest": "sha256:6d01ed5d2ab99eafe915906875fb776296a6543d2bf483d9c6a7877965dd0b09",
-      "download_count": 1060,
+      "download_count": 1116,
       "created_at": "2026-10-31T12:29:28Z",
       "updated_at": "2026-10-31T12:29:28Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4297475,
       "digest": "sha256:6f46122b11a4c821d1413b66fff3fb6584a78a4b202e35f8f15d50b06c247081",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-31T12:22:35Z",
       "updated_at": "2026-10-31T12:22:35Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/sketch_0.12.1_Darwin_x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4222225,
       "digest": "sha256:9a5b5a2a6a5f77cc2722fa62d2bc62e43028ea8638b956a2e72207592ed011e0",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-31T12:22:33Z",
       "updated_at": "2026-10-31T12:22:34Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/sketch_0.12.1_Freebsd_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4237961,
       "digest": "sha256:85cfe0a417fee0e51fbc0b75c6d56dfba690a77e5ea24024e23a89c3ca8bccdb",
-      "download_count": 52,
+      "download_count": 60,
       "created_at": "2026-10-31T12:22:34Z",
       "updated_at": "2026-10-31T12:22:35Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/sketch_0.12.1_Linux_x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3841033,
       "digest": "sha256:827c40a7d464ba474fd7f406e466aac7c469f3fdf3d8d2d57c0a13504ed1bb59",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-31T12:22:33Z",
       "updated_at": "2026-10-31T12:22:33Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/sketch_0.12.1_Windows_arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4346949,
       "digest": "sha256:65572fae467529a42bf10c1d9972842eb1ea53d0a4421bd65c51f133b01faa4a",
-      "download_count": 65,
+      "download_count": 67,
       "created_at": "2026-10-31T12:22:32Z",
       "updated_at": "2026-10-31T12:22:33Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/sketch_0.12.1_Windows_x86_64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4649356,
       "digest": "sha256:f3959d14fb28c9afbea556a6ae01d06bc97807b2c5b522683cca33d2236e52c0",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-31T12:22:37Z",
       "updated_at": "2026-10-31T12:22:38Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tml_0.12.1_Darwin_x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4075603,
       "digest": "sha256:5faf400c12cfdf87d8aae86c9ab3aa94699de17e80fc038b025cec4739a79ad5",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-31T12:22:37Z",
       "updated_at": "2026-10-31T12:22:37Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tml_0.12.1_Freebsd_arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4112603,
       "digest": "sha256:a9795c57888f85eebb26f42730def628572d5587c6e355d4d732efb4801c68e0",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-31T12:22:37Z",
       "updated_at": "2026-10-31T12:22:38Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tml_0.12.1_Linux_arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 4616227,
       "digest": "sha256:d707804b447936ff7cc7cf8898a290643fc5686eb3317d7fa080f4123fadf6b0",
-      "download_count": 22,
+      "download_count": 30,
       "created_at": "2026-10-31T12:22:37Z",
       "updated_at": "2026-10-31T12:22:38Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tml_0.12.1_Linux_x86_64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4158766,
       "digest": "sha256:61479024d34c50ee742ef626cef7b7c790990b78a72019caf23b4e4d9115b24e",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-31T12:22:38Z",
       "updated_at": "2026-10-31T12:22:39Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tml_0.12.1_Windows_arm64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 1180416,
       "digest": "sha256:84174fc009974b5717d6db60f93e7e1d69ae94e3c6fcab247a29144059398fa0",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-31T12:22:35Z",
       "updated_at": "2026-10-31T12:22:35Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tplot_0.12.1_Linux_arm64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 1294718,
       "digest": "sha256:923e2260961bfabc0ac6758751de391ba64fda6f0365b0015c26762751152a7f",
-      "download_count": 25,
+      "download_count": 33,
       "created_at": "2026-10-31T12:22:35Z",
       "updated_at": "2026-10-31T12:22:35Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tplot_0.12.1_Linux_x86_64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 19323075,
       "digest": "sha256:16032d640d95cec8b18ea373356e2ca7b77024137518e91d3f13b9f581ab9f05",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-10-31T12:29:27Z",
       "updated_at": "2026-10-31T12:29:30Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-ghostty_0.12.1_Darwin_arm64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 20997808,
       "digest": "sha256:a068b6c6d0b753c00376905fc18b2b369c09063bbce4dfa4149061b34c483da9",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-31T12:29:27Z",
       "updated_at": "2026-10-31T12:29:30Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-ghostty_0.12.1_Darwin_x86_64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 24329282,
       "digest": "sha256:c5e9e9fda54e6c1688c3351efe386c267e40aeb51d959c83ed4caf1ec217e5e1",
-      "download_count": 71,
+      "download_count": 82,
       "created_at": "2026-10-31T12:22:35Z",
       "updated_at": "2026-10-31T12:22:36Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-ghostty_0.12.1_Linux_x86_64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 21188995,
       "digest": "sha256:1499eb4811fa367aa44b1cf3f4f803a7bc61f2454ffeda177fbdf47676f1899a",
-      "download_count": 47,
+      "download_count": 50,
       "created_at": "2026-10-31T12:22:32Z",
       "updated_at": "2026-10-31T12:22:33Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-ghostty_0.12.1_Windows_x86_64.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 22447198,
       "digest": "sha256:e02ed9a9f5354341af33e9a6720a7e45b9a498a507f9466bca6591e164aac1eb",
-      "download_count": 60,
+      "download_count": 61,
       "created_at": "2026-10-31T12:22:30Z",
       "updated_at": "2026-10-31T12:22:31Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Darwin_arm64.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 23743922,
       "digest": "sha256:f7a44654b091b09e1b1a6f2211abdabb164bfe73e930896ceb7fb63688f812d9",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-31T12:22:32Z",
       "updated_at": "2026-10-31T12:22:33Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Darwin_x86_64.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 23304835,
       "digest": "sha256:0ca6fd43a71f2452c8942f1dc98c1b7bfe7fb08f7e85272b8f330b40fc82f616",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-31T12:22:28Z",
       "updated_at": "2026-10-31T12:22:29Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Freebsd_x86_64.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 21694118,
       "digest": "sha256:bace0d44b02751608dddfcdbdcdf9b930d52366eddfcb2b2dcad31d1b37253cc",
-      "download_count": 27,
+      "download_count": 31,
       "created_at": "2026-10-31T12:22:29Z",
       "updated_at": "2026-10-31T12:22:30Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Linux_arm64.tar.gz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 22471352,
       "digest": "sha256:b828e1fa3438d4cd963414a0056c4d1d932c3ccaddf4b6b4da3331663b06f96b",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-31T12:22:29Z",
       "updated_at": "2026-10-31T12:22:30Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Linux_armv6.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 22431540,
       "digest": "sha256:a2e903bb21e8f2783522cd78bf20ee34bd66d3d990779c2dcffbb1623ce3cf62",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-31T12:22:27Z",
       "updated_at": "2026-10-31T12:22:28Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Linux_armv7.tar.gz"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 22306395,
       "digest": "sha256:07f84a8fa1336fd75cd2bc1fb472b17916621bab2cf3e59e310d00ab5ae4d378",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-31T12:22:27Z",
       "updated_at": "2026-10-31T12:22:28Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Linux_i386.tar.gz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 23375941,
       "digest": "sha256:e97f7c20007aa9e26e0fde466efb1cbc2134603b3d05cdd4f246f3e7dca7423e",
-      "download_count": 147,
+      "download_count": 157,
       "created_at": "2026-10-31T12:22:29Z",
       "updated_at": "2026-10-31T12:22:30Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Linux_x86_64.tar.gz"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 21607415,
       "digest": "sha256:fd541a379e5af4e053a7cca8c96dc7caa366796f2cea9a870d163253a57fefbc",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-31T12:22:30Z",
       "updated_at": "2026-10-31T12:22:31Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Openbsd_arm64.tar.gz"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 23287805,
       "digest": "sha256:8955bda7695a0016b00582d4b909a4609df3b3c7836f95275dc1904681f0656e",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-31T12:22:27Z",
       "updated_at": "2026-10-31T12:22:28Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios-web_0.12.1_Openbsd_x86_64.tar.gz"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 18962946,
       "digest": "sha256:53c4e69a5c90c12f95692f01075468c8aa0ad13d8b630e5c7900deb712e0b6fc",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-10-31T12:22:26Z",
       "updated_at": "2026-10-31T12:22:27Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios_0.12.1_Android_arm64.tar.gz"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 18847430,
       "digest": "sha256:8d7c0b6ec18fff2a3453c8d50b858edfab208557c0079002715b3f6ee2182f47",
-      "download_count": 147,
+      "download_count": 155,
       "created_at": "2026-10-31T12:22:26Z",
       "updated_at": "2026-10-31T12:22:27Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios_0.12.1_Darwin_arm64.tar.gz"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 20324763,
       "digest": "sha256:11d9c5bbeefacd13ecad7420e04336a2bbbdcf55887c714974d2dd46e61501e9",
-      "download_count": 49,
+      "download_count": 52,
       "created_at": "2026-10-31T12:22:21Z",
       "updated_at": "2026-10-31T12:22:22Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios_0.12.1_Darwin_x86_64.tar.gz"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 18034791,
       "digest": "sha256:e5da14d9d5b778d184e55fdb541d002e258f4d2295cefc00c86f0df4cec1f758",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-31T12:22:21Z",
       "updated_at": "2026-10-31T12:22:22Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios_0.12.1_Freebsd_arm64.tar.gz"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 18099706,
       "digest": "sha256:4f1b39c2ec58c057f7bc6298d558f690336031fc564d80ee38d950f1ecbd2753",
-      "download_count": 205,
+      "download_count": 224,
       "created_at": "2026-10-31T12:22:26Z",
       "updated_at": "2026-10-31T12:22:26Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios_0.12.1_Linux_arm64.tar.gz"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 19937638,
       "digest": "sha256:4f68bac6e05d826b8c59b671b565c61b859dacedcb5d889160ba6d8624589b50",
-      "download_count": 2896,
+      "download_count": 3041,
       "created_at": "2026-10-31T12:22:23Z",
       "updated_at": "2026-10-31T12:22:24Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios_0.12.1_Linux_x86_64.tar.gz"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 19212701,
       "digest": "sha256:b3d4805fb1ce607acc00900cc187ae5a5e35ebdf3aac18d8327fd64616a2e135",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-31T12:22:21Z",
       "updated_at": "2026-10-31T12:22:22Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios_0.12.1_Windows_i386.tar.gz"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 20074120,
       "digest": "sha256:7f0a782183897773fae6308df6be7213df126fd7ecd534c7d84747e745ffdfcd",
-      "download_count": 313,
+      "download_count": 334,
       "created_at": "2026-10-31T12:22:24Z",
       "updated_at": "2026-10-31T12:22:26Z",
       "browser_download_url": "https://github.com/Gaurav-Gosain/tuios/releases/download/v0.12.1/tuios_0.12.1_Windows_x86_64.tar.gz"
