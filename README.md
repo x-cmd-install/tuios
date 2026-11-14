@@ -14,11 +14,11 @@ x install tuios
 
 ## Code insight
 
-Total: **940,727** lines of code across **5103** files in the top 5 languages.
+Total: **942,563** lines of code across **5126** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 899,846 | 218,900 | 79,683 | 4811 |
+| Go | 901,682 | 219,505 | 79,843 | 4834 |
 | Json | 28,487 | 0 | 0 | 144 |
 | Sh | 3,384 | 1,206 | 405 | 52 |
 | Toml | 2,821 | 1,098 | 472 | 72 |
@@ -38,22 +38,22 @@ Total: **940,727** lines of code across **5103** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,511 · **Forks**: 321 · **Open issues**: 353 · **Contributors**: 76
+- **Stars**: 6,520 · **Forks**: 321 · **Open issues**: 353 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 1381 · **Open PRs**: 15 · **Closed issues**: 332 · **Open issues**: 21 · **Commits**: 6767
+- **Releases**: 55 · **Merged PRs**: 1390 · **Open PRs**: 18 · **Closed issues**: 337 · **Open issues**: 16 · **Commits**: 6795
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 7 | 936 | 15 | 146 | 16 | 2520 |
-| last60d | 2026-09-14 | 16 | 1319 | 15 | 229 | 18 | 4722 |
-| 90d | 2026-08-15 | 16 | 1336 | 15 | 271 | 20 | 5351 |
-| last180d | 2026-05-17 | 16 | 1365 | 15 | 272 | 20 | 5999 |
-| 360d | 2025-11-18 | 25 | 1371 | 15 | 301 | 20 | 6266 |
-| last720d | 2024-11-23 | 55 | 1381 | 15 | 332 | 21 | 6767 |
+| 30d | 2026-10-15 | 6 | 911 | 18 | 146 | 11 | 2548 |
+| last60d | 2026-09-15 | 16 | 1328 | 18 | 234 | 13 | 4750 |
+| 90d | 2026-08-16 | 16 | 1343 | 18 | 275 | 15 | 5379 |
+| last180d | 2026-05-18 | 16 | 1374 | 18 | 277 | 15 | 6027 |
+| 360d | 2025-11-19 | 25 | 1380 | 18 | 306 | 15 | 6294 |
+| last720d | 2024-11-24 | 55 | 1390 | 18 | 337 | 16 | 6795 |
 
 ## Release assets
 
@@ -141,4 +141,4 @@ Install metadata for tuios lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:25:23Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:07:05Z._
