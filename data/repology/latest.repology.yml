@@ -1,22 +1,23 @@
-- repo: aur
-  srcname: tuios-bin
-  binname: tuios-bin
-  visiblename: tuios-bin
-  version: 0.12.1
-  origversion: 0.12.1-1
-  status: newest
-  summary: Terminal UI Operating System - A terminal-based window manager with tmux-style keybindings
+- repo: homebrew
+  srcname: tuios
+  visiblename: tuios
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal UI OS (Terminal Multiplexer)
+- repo: alpine_edge
+  subrepo: testing
+  srcname: tuios
+  binname: tuios
+  visiblename: tuios
+  version: 0.6.0
+  origversion: 0.6.0-r6
+  status: outdated
+  summary: Terminal UI OS (Terminal Multiplexer)
   maintainers:
-    - gaurav-gosain@aur
+    - grking.email@gmail.com
   licenses:
     - MIT
-- repo: chocolatey
-  binname: tuios
-  visiblename: TuiOS
-  version: 0.12.1
-  origversion: null
-  status: newest
-  summary: Terminal UI OS (Terminal Multiplexer)
 - repo: alpine_edge
   subrepo: testing
   srcname: tuios
@@ -30,19 +31,6 @@
     - grking.email@gmail.com
   licenses:
     - MIT
-- repo: alpine_edge
-  subrepo: testing
-  srcname: tuios
-  binname: tuios
-  visiblename: tuios
-  version: 0.6.0
-  origversion: 0.6.0-r6
-  status: outdated
-  summary: Terminal UI OS (Terminal Multiplexer)
-  maintainers:
-    - grking.email@gmail.com
-  licenses:
-    - MIT
 - repo: altsisyphus
   srcname: tuios
   binnames:
@@ -51,7 +39,7 @@
   visiblename: tuios
   version: 0.12.1
   origversion: 0.12.1-alt1
-  status: newest
+  status: outdated
   summary: Terminal UI Operating System, a terminal-based window manager
   maintainers:
     - liannnix@altlinux.org
@@ -59,19 +47,31 @@
     - MIT
   categories:
     - Terminals
-- repo: homebrew
-  srcname: tuios
-  visiblename: tuios
+- repo: aur
+  srcname: tuios-bin
+  binname: tuios-bin
+  visiblename: tuios-bin
+  version: 0.13.1
+  origversion: 0.13.1-1
+  status: newest
+  summary: Terminal UI Operating System - A terminal-based window manager with tmux-style keybindings
+  maintainers:
+    - gaurav-gosain@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: tuios
+  visiblename: TuiOS
   version: 0.12.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal UI OS (Terminal Multiplexer)
 - repo: homebrew
   srcname: tuios
   visiblename: tuios
-  version: HEAD
+  version: 0.13.0
   origversion: null
-  status: rolling
+  status: outdated
   summary: Terminal UI OS (Terminal Multiplexer)
 - repo: nix_stable_25_11
   srcname: tuios
@@ -100,7 +100,7 @@
   visiblename: tuios
   version: 0.12.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Terminal-based window manager
   maintainers:
     - kristoffer.pbs@gmail.com
