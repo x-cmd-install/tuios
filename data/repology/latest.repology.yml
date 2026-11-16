@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: tuios
-  visiblename: tuios
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Terminal UI OS (Terminal Multiplexer)
 - repo: alpine_edge
   subrepo: testing
   srcname: tuios
@@ -51,8 +44,8 @@
   srcname: tuios-bin
   binname: tuios-bin
   visiblename: tuios-bin
-  version: 0.13.1
-  origversion: 0.13.1-1
+  version: 0.13.2
+  origversion: 0.13.2-1
   status: newest
   summary: Terminal UI Operating System - A terminal-based window manager with tmux-style keybindings
   maintainers:
@@ -62,16 +55,23 @@
 - repo: chocolatey
   binname: tuios
   visiblename: TuiOS
-  version: 0.12.1
+  version: 0.13.1
   origversion: null
   status: outdated
   summary: Terminal UI OS (Terminal Multiplexer)
 - repo: homebrew
   srcname: tuios
   visiblename: tuios
-  version: 0.13.0
+  version: 0.13.2
   origversion: null
-  status: outdated
+  status: newest
+  summary: Terminal UI OS (Terminal Multiplexer)
+- repo: homebrew
+  srcname: tuios
+  visiblename: tuios
+  version: HEAD
+  origversion: null
+  status: rolling
   summary: Terminal UI OS (Terminal Multiplexer)
 - repo: nix_stable_25_11
   srcname: tuios
