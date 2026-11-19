@@ -30,9 +30,9 @@
     - tuios
     - tuios-debuginfo
   visiblename: tuios
-  version: 0.12.1
-  origversion: 0.12.1-alt1
-  status: outdated
+  version: 0.13.3
+  origversion: 0.13.3-alt1
+  status: newest
   summary: Terminal UI Operating System, a terminal-based window manager
   maintainers:
     - liannnix@altlinux.org
@@ -98,7 +98,7 @@
 - repo: nix_unstable
   srcname: tuios
   visiblename: tuios
-  version: 0.12.1
+  version: 0.13.2
   origversion: null
   status: outdated
   summary: Terminal-based window manager
