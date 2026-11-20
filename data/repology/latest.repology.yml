@@ -98,9 +98,9 @@
 - repo: nix_unstable
   srcname: tuios
   visiblename: tuios
-  version: 0.13.2
+  version: 0.13.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Terminal-based window manager
   maintainers:
     - kristoffer.pbs@gmail.com
