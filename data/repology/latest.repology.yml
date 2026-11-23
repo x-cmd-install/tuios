@@ -55,9 +55,9 @@
 - repo: chocolatey
   binname: tuios
   visiblename: TuiOS
-  version: 0.13.1
+  version: 0.13.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Terminal UI OS (Terminal Multiplexer)
 - repo: homebrew
   srcname: tuios
