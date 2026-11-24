@@ -59,6 +59,18 @@
   origversion: null
   status: newest
   summary: Terminal UI OS (Terminal Multiplexer)
+- repo: freebsd
+  srcname: sysutils/tuios
+  binname: tuios
+  visiblename: sysutils/tuios
+  version: 0.13.3
+  origversion: null
+  status: newest
+  summary: Terminal window manager and multiplexer
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - sysutils
 - repo: homebrew
   srcname: tuios
   visiblename: tuios
