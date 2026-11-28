@@ -1,0 +1,210 @@
+about:
+  description: "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. Official only at tuios.dev and this repo. tuios has no X/Twitter account."
+  license: MIT
+  homepage: https://tuios.dev
+  head: fb1af8f
+  archived: false
+  latestVersion: "v0.13.3"
+  latestRelease: "v0.13.3"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:32:51Z
+timeline:
+  created: 2025-09-06
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-16
+  lastRelease: 2026-11-16
+  lastPrerelease: 
+popularity:
+  star: 6846
+  watcher: 15
+  fork: 348
+  release: 58
+  contributor: 81
+  pullRequest: 2152
+  issue: 411
+language:
+  Go: 44846430
+  Lua: 141413
+  JavaScript: 138613
+  Lean: 104134
+  TypeScript: 30279
+  Shell: 23019
+  Just: 19184
+  HTML: 15179
+  Tape: 9139
+  Python: 8343
+  QML: 7688
+totalBytes: 45343421
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 5
+    mergedPR: 788
+    openPR: 76
+    closedIssue: 97
+    openIssue: 35
+    commit: 1710
+  last60d:
+    since: 2026-09-29
+    release: 18
+    mergedPR: 1649
+    openPR: 76
+    closedIssue: 250
+    openIssue: 37
+    commit: 4447
+  last90d:
+    since: 2026-08-30
+    release: 19
+    mergedPR: 1706
+    openPR: 76
+    closedIssue: 305
+    openIssue: 39
+    commit: 5561
+  last180d:
+    since: 2026-06-01
+    release: 19
+    mergedPR: 1745
+    openPR: 76
+    closedIssue: 311
+    openIssue: 39
+    commit: 6687
+  last360d:
+    since: 2025-12-03
+    release: 27
+    mergedPR: 1751
+    openPR: 76
+    closedIssue: 335
+    openIssue: 39
+    commit: 6934
+  last720d:
+    since: 2024-12-08
+    release: 58
+    mergedPR: 1761
+    openPR: 76
+    closedIssue: 371
+    openIssue: 40
+    commit: 7455
+total:
+  release: 58
+  mergedPR: 1761
+  openPR: 76
+  closedIssue: 371
+  openIssue: 40
+  commit: 7455
+---
+path: /home/runner/.x-repo/github.com/Gaurav-Gosain/tuios
+collectedAt: 2026-11-28T07:33:15Z
+loc:
+  Go:
+    code: 968617
+    comments: 234271
+    blanks: 85020
+    files: 5236
+  Json:
+    code: 40547
+    comments: 0
+    blanks: 0
+    files: 170
+  Sh:
+    code: 3575
+    comments: 1298
+    blanks: 413
+    files: 54
+  Lua:
+    code: 2998
+    comments: 489
+    blanks: 172
+    files: 4
+  Toml:
+    code: 2913
+    comments: 1149
+    blanks: 492
+    files: 76
+  JavaScript:
+    code: 2405
+    comments: 769
+    blanks: 236
+    files: 24
+  Lean:
+    code: 1719
+    comments: 378
+    blanks: 243
+    files: 10
+  Svg:
+    code: 1004
+    comments: 0
+    blanks: 0
+    files: 939
+  TypeScript:
+    code: 576
+    comments: 151
+    blanks: 42
+    files: 3
+  Bash:
+    code: 370
+    comments: 98
+    blanks: 31
+    files: 3
+  C:
+    code: 269
+    comments: 35
+    blanks: 30
+    files: 2
+  Nix:
+    code: 236
+    comments: 39
+    blanks: 30
+    files: 6
+  Qml:
+    code: 186
+    comments: 16
+    blanks: 18
+    files: 2
+  Python:
+    code: 169
+    comments: 27
+    blanks: 21
+    files: 4
+  Zsh:
+    code: 65
+    comments: 26
+    blanks: 8
+    files: 2
+  Html:
+    code: 35
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 14
+    comments: 31
+    blanks: 7
+    files: 1
+  Autoconf:
+    code: 11
+    comments: 0
+    blanks: 6
+    files: 1
+  Yaml:
+    code: 4
+    comments: 3
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 69599
+    blanks: 17416
+    files: 135
+  Text:
+    code: 0
+    comments: 39219
+    blanks: 343
+    files: 186
+total:
+  code: 1030203
+  comments: 348110
+  blanks: 104991
+  files: 6861
+---
+
+---
